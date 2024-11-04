@@ -15,6 +15,5 @@ Here are some of the projects you can find in my repositories:
 -   **Project Title**:To Do list.
 
 ## 💬 Get in Touch
-You can reach me at [raosahithi31@gmail.com] or connect with me on [LinkedIn](www.linkedin.com/in/abbineni-sahithi-8807902b2).
-
+You can reach me at [raosahithi31@gmail.com] or connect with me on www.linkedin.com/in/abbineni-sahithi-8807902b2
 I welcome any feedback and collaboration opportunities, so feel free to reach out!
